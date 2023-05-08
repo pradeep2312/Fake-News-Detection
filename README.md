@@ -20,7 +20,7 @@ In this project we have developed a sequential RNN model with three layers as em
 
 ## Result Analysis: 
 
-The model is trained and tested thoroughly and model is successfully classifying the text with an accuracy score of %.
+The model is trained and tested thoroughly and model is successfully classifying the text with an accuracy score of 94.24 %.
 
 ## Application : 
 
